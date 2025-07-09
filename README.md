@@ -51,10 +51,3 @@ Special thanks to Professor Jayendra Bhalodiya for guiding the project.
 We also appreciate the support of our amazing development team (Param Shah, Jugal Vaghmashi, Nitant Jain, Apurva Kamdar).
 
 ---
-
-## 📧 **Contact**
-
-For any inquiries, feel free to reach out:  
-**Jugal Ahir**  
-📧 [MAIL](mailto:vaghmashijugal@gmail.com)  
-🌐 [PORTFOLIO](https://byte-folio.netlify.app)
